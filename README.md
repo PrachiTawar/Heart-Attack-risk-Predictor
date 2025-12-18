@@ -12,7 +12,7 @@ Handles categorical and numerical inputs – Includes age, smoking, alcohol, exe
 
 How to Run:-
 Clone the repository:
-git clone https://github.com/PrachiTawar/heart-disease-risk-predictor.git
+git clone https://github.com/PrachiTawar/Heart-Attack-risk-Predictor.git
 cd heart-disease-risk-predictor
 Install dependencies:
 pip install -r requirements.txt
@@ -32,7 +32,7 @@ Dataset:-
 The model was trained on a heart disease dataset including medical and lifestyle features, enhanced with diet quality information.
 
 Disclaimer:-
-⚠️ Informational Only: This app is for educational purposes and not a medical diagnosis tool. Predictions are based on historical data and may not reflect actual health conditions. Always consult a healthcare professional for medical advice.
+Informational Only: This app is for educational purposes and not a medical diagnosis tool. Predictions are based on historical data and may not reflect actual health conditions. Always consult a healthcare professional for medical advice.
 
 Technologies Used
 Python – Data processing and backend
