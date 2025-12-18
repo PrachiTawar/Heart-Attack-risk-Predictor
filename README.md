@@ -12,13 +12,15 @@ Handles categorical and numerical inputs – Includes age, smoking, alcohol, exe
 
 How to Run:-
 Clone the repository:
-git clone https://github.com/username/heart-disease-risk-predictor.git
+git clone https://github.com/PrachiTawar/heart-disease-risk-predictor.git
 cd heart-disease-risk-predictor
 Install dependencies:
 pip install -r requirements.txt
 Run the Streamlit app:
 streamlit run app.py
 The app will open in your browser at http://localhost:8501.
+Live:- 
+https://huggingface.co/spaces/Prach-404/Heart-Attack-Risk-Predictor
 
 Model:-
 Algorithm: Logistic Regression
